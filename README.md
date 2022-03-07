@@ -13,9 +13,9 @@
 
 
 ### FEATURES
-![Program](2.jpg)
-![Program](3.jpg)
-![Program](4.jpg)
-![Program](5.jpg)
-![Program](6.jpg)
-![Program](7.jpg)
+<img src="2.jpg" width=70%>
+<img src="3.jpg" width=70%>
+<img src="4.jpg" width=70%>
+<img src="5.jpg" width=70%>
+<img src="6.jpg" width=70%>
+<img src="7.jpg" width=70%>
