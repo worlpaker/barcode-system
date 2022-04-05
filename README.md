@@ -11,6 +11,6 @@
 **Note: Only Turkish language is available.**
 ## INSTALLATION
 
-*This program require C# and for database(sqlserver) you must install mySQL.
+*This program require .NET C# and for database(SQL) you must install mySQL.
 
 
