@@ -3,12 +3,13 @@
 
 
 ## ABOUT
-- Language: C#, Sqlserver: mySQL.
-- Control of inventory, sales statistics and current account control for Stores and Markets.
-- Generate barcodes for products(variety, price,stock etc.). After that, there are options to print out and save it to stock. Some features: Search products in current stock, sales statistics by day, Sales and Refund list of products etc. Sales and Refund processes are work with Barcode Scanner Device.
-- In addition, there is daily current account control in the program interface (Credit Card, Cash and Total Profit)
-
+- Language: C#, SQL: mySQL.
+- Control of inventory, Sales statistics and current account control for Stores and Markets. 
+- Generate barcode for products, Sales and Refund processes are working with Barcode Scanner Device. 
+- For more details about features you may see photos.
+- 
 **Note: Only Turkish language is available.**
+
 ## INSTALLATION
 
 *This program require .NET C# and for database(SQL) you must install mySQL.
